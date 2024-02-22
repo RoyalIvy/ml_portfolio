@@ -1,4 +1,4 @@
-# Machine Learning портфолио
+# Computer vision портфолио
 
 ## [Тестовое задание по OpenCV в компанию Mindset](https://github.com/RoyalIvy/ml_portfolio/tree/master/opencv_test_room)
 
